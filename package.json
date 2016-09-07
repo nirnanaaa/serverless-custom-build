@@ -1,19 +1,17 @@
 {
-  "name": "serverless-webpack-binary-packager",
+  "name": "serverless-binary-packager",
   "version": "1.0.0",
   "description": "Serverless plugin to run custom build script",
   "main": "index.js",
   "author": "Florian Kasper",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nirnanaaa/webpack-binary-packager.git"
+    "url": "git+https://github.com/nirnanaaa/serverless-custom-build.git"
   },
   "keywords": [
     "serverless",
     "1.0",
-    "webpack",
     "babel",
-    "typescript",
     "es6",
     "plugin",
     "runtime"
@@ -21,11 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.0",
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "fs-extra": "^0.26.7",
-    "npm-programmatic": "0.0.5",
-    "webpack": "^1.13.1"
+    "fs-extra": "^0.26.7"
   },
   "devDependencies": {
     "chai": "^3.5.0",
