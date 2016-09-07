@@ -1,5 +1,5 @@
 {
-  "name": "serverless-binary-packager",
+  "name": "serverless-custom-build",
   "version": "1.0.0",
   "description": "Serverless plugin to run custom build script",
   "main": "index.js",
